@@ -1,0 +1,6 @@
+project:
+  name: delivery-lab
+  default_branch: main
+runtime:
+  language: python
+  version: "3.13"

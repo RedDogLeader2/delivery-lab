@@ -1,2 +1,2 @@
 # delivery-lab
-Hands-on modern CI/CD refresher
+Hands-on modern CI/CD refresher.
